@@ -1,4 +1,4 @@
-# Empirical-Path-Loss-Model-
+# Empirical-Path-Loss-Model
 Okumura Model
 
 
