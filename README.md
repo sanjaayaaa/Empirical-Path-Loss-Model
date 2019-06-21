@@ -1,2 +1,7 @@
 # Empirical-Path-Loss-Model-
 Okumura Model
+
+
+Radio propagation prediction is one of the fundamentals of radio network planning. It is therefore vital that the propagation prediction models are as accurate as possible. Propagation path loss is major in the analysis and design of the link budget of telecommunication system. Calculation of the path loss is usually called prediction. Exact prediction is possible only for simpler cases, such as free space propagation or the flat-earth model. For practical cases the path loss is calculated using a variety of approximations.<br/>
+In this report we will discuss Empirical path loss model and then mainly focus on Okumura model used for the signal prediction. Okumura model is one of the most widely used empirical propagation prediction models used in Urban Areas. It was developed through works of Y. Okumura and is based on the results of extensive measurements in certain urban and suburban areas of Japan. We will consider the parameters causing losses in propagation such as Free space propagation loss, Base station antenna height factor, Mobile antenna height gain factor, Basic median attenuation and Environment gain.<br/>
+To check the practical implementation and working some demonstrational view can be created on MATLAB by writing some code to see actual graph of relation between the received power and the distance, relation between transmitter height and propagation path loss.
